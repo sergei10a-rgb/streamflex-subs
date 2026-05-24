@@ -1,0 +1,44 @@
+name: Regenerate per-title indexes
+
+on:
+  push:
+    paths:
+      - 'movies/**'
+      - 'tv/**'
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+    # Don't trigger on the bot's own commits to avoid infinite loops.
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate uploaded subs (size, format, schema)
+        run: node scripts/validate-subs.js
+
+      - name: Regenerate per-title index.json files
+        run: node scripts/regen-indexes.js
+
+      - name: Commit index changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: regenerate indexes + validate"
+            git push
+          fi
