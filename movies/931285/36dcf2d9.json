@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 931285,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "36dcf2d90cb1aebafa122e643bbe74454f27541cda7dbd776eb299de845d2858",
+  "model": "local",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at": "2026-05-24T17:15:54.324Z",
+  "app_version": "1.0.14"
+}
