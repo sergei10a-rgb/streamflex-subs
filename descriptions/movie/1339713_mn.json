@@ -1,0 +1,9 @@
+{
+  "tmdb_id": 1339713,
+  "media_type": "movie",
+  "target_language": "mn",
+  "source_language": "en",
+  "model": "chatgpt-codex",
+  "translated_at": "2026-05-24T17:47:23.883Z",
+  "app_version": "1.0.15"
+}
