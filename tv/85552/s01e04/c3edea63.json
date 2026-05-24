@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 85552,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 4,
+  "sha256": "c3edea6330b14e5766c5433e08f0ad05327b49697cb54184bcfc997c98e19def",
+  "model": "local",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at": "2026-05-24T18:33:04.964Z",
+  "app_version": "1.0.16"
+}
