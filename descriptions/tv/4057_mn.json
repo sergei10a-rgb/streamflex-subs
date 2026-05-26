@@ -1,0 +1,9 @@
+{
+  "tmdb_id": 4057,
+  "media_type": "tv",
+  "target_language": "mn",
+  "source_language": "en",
+  "model": "chatgpt-codex",
+  "translated_at": "2026-05-26T17:48:54.330Z",
+  "app_version": "1.0.18"
+}
