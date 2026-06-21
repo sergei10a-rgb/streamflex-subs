@@ -1,11 +1,5 @@
 {
-  "subs": [
-    {
-      "sha8": "066616c7",
-      "sha256": "066616c7dbe1ba4cbf0a987c0485cced254cdde6be807699508a11bfdeb74d98",
-      "model": "gpt-5.5",
-      "target_language": "mn",
-      "translated_at": "2026-06-21"
-    }
-  ]
+  "tmdb_id": 28322,
+  "media_type": "movie",
+  "subs": []
 }
