@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 124364,
+  "media_type": "tv",
+  "season": 4,
+  "episode": 6,
+  "sha256": "72b221829cc406575ea4aff536d6749d71bd25cf7275fe6a6c4d8df77eaf3bce",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-22"
+}
