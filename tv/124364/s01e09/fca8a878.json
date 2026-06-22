@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 124364,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 9,
+  "sha256": "fca8a87870e5da6413ae140e6c439128e09af05e11417f51180e6f4bdce28ab4",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-22"
+}
