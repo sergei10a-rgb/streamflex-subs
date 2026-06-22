@@ -1,11 +1,5 @@
 {
-  "subs": [
-    {
-      "sha8": "a3ee3c45",
-      "sha256": "a3ee3c450d71ae58807db0a3cd4c8b450fa201da79208146e013d3def8a87ea4",
-      "model": "claude-opus-4-8",
-      "target_language": "mn",
-      "translated_at": "2026-06-22"
-    }
-  ]
+  "tmdb_id": 124364,
+  "media_type": "tv",
+  "subs": []
 }
