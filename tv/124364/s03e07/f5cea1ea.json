@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 124364,
+  "media_type": "tv",
+  "season": 3,
+  "episode": 7,
+  "sha256": "f5cea1ea971d33bfca3bd3d1b9a0fb93fe299ed986373ede3dd23bb80a8f15a6",
+  "model": "claude-opus-4-8",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-22"
+}
