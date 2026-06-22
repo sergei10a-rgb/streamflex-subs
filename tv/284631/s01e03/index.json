@@ -1,11 +1,5 @@
 {
-  "subs": [
-    {
-      "sha8": "b3d48ea4",
-      "sha256": "b3d48ea463bbf4cd387d8240ba7cee382c249f8b1bb6dfabaf94c3d27240c3b3",
-      "model": "auto",
-      "target_language": "mn",
-      "translated_at": "2026-06-22"
-    }
-  ]
+  "tmdb_id": 284631,
+  "media_type": "tv",
+  "subs": []
 }
