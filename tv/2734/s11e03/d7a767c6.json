@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 11,
+  "episode": 3,
+  "sha256": "d7a767c65fc5e3119928a01736e985bd9e5cd2b78183488c71e9b97ccfee2a3e",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
