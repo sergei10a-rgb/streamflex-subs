@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 5,
+  "episode": 20,
+  "sha256": "20634088f4cfd190c1791d4feddcaa433bee839f86636d163c2bbbfb88c65801",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
