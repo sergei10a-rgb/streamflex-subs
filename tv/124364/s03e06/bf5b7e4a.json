@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 124364,
+  "media_type": "tv",
+  "season": 3,
+  "episode": 6,
+  "sha256": "bf5b7e4ab66a0fb7c72c0c1dbe734a4730aefd626770216afddf1de9a5843dbf",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-22"
+}

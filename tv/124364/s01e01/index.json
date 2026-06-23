@@ -1,5 +1,12 @@
 {
   "tmdb_id": 124364,
   "media_type": "tv",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "9064a8f0",
+      "sha256": "9064a8f0a4469fe7337ecc4a8840aa66a6adf67e6578a4cfe75147bc553b0e4e",
+      "model": "claude-opus-4-8",
+      "translated_at": "2026-06-22"
+    }
+  ]
 }

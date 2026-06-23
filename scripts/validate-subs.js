@@ -14,8 +14,14 @@ const REQUIRED_META = [
   "media_type",
   "sha256",
   "model",
-  "translated_at",
 ];
+// A date key is required, but accept EITHER `translated_at` (older app builds /
+// heal script) OR `translated_at_day` (the privacy-day key all current clients —
+// daemon pool.js, desktop ipc, mobile backend — write). Requiring only
+// `translated_at` silently deleted every modern upload, leaving empty indexes.
+function hasDateKey(meta) {
+  return "translated_at" in meta || "translated_at_day" in meta;
+}
 
 const deletions = [];
 
@@ -45,6 +51,9 @@ function validatePair(srtPath) {
       const meta = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
       for (const k of REQUIRED_META) {
         if (!(k in meta)) errors.push(`meta missing required key '${k}'`);
+      }
+      if (!hasDateKey(meta)) {
+        errors.push("meta missing date (translated_at or translated_at_day)");
       }
       if (typeof meta.sha256 === "string") {
         const actualSha = crypto.createHash("sha256").update(srt).digest("hex");

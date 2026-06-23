@@ -39,7 +39,9 @@ function regenIndex(dir) {
         sha8,
         sha256: meta.sha256,
         model: meta.model,
-        translated_at: meta.translated_at,
+        // Accept either date key: modern clients write `translated_at_day`
+        // (privacy day-precision); older builds wrote `translated_at`.
+        translated_at: meta.translated_at || meta.translated_at_day || "",
       });
     } catch (e) {
       console.error(`Skipping ${entry}: ${e.message}`);

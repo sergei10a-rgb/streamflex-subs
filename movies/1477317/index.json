@@ -1,5 +1,12 @@
 {
   "tmdb_id": 1477317,
   "media_type": "movie",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "24b7d359",
+      "sha256": "24b7d359de609962a781549db9cc6c84692cd9c0a742764fe012ee15e32478d7",
+      "model": "gpt-5.5",
+      "translated_at": "2026-06-22"
+    }
+  ]
 }

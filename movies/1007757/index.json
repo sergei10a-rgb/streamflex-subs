@@ -1,18 +1,5 @@
 {
   "tmdb_id": 1007757,
   "media_type": "movie",
-  "subs": [
-    {
-      "sha8": "9b5e720b",
-      "sha256": "9b5e720bd9fc058cbe1d59e39483048ea2fd6cc8ec91258ca335f806acfbf960",
-      "model": "gemini-2.5-flash",
-      "translated_at": "2026-06-20T16:39:08.824Z"
-    },
-    {
-      "sha8": "31e0c292",
-      "sha256": "31e0c292908a0927686a73585b698c763d15f9dd84ef0c1ec3f9a2bcac75c4c3",
-      "model": "local",
-      "translated_at": "2026-05-24T16:01:50.186Z"
-    }
-  ]
+  "subs": []
 }

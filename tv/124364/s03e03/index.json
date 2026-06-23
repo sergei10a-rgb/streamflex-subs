@@ -1,5 +1,12 @@
 {
   "tmdb_id": 124364,
   "media_type": "tv",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "3285e552",
+      "sha256": "3285e552385ca4e0424152c33c8ed3eced0ff6ffffb42df149e20a1d2fc29262",
+      "model": "auto",
+      "translated_at": "2026-06-22"
+    }
+  ]
 }

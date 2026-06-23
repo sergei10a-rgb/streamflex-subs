@@ -1,5 +1,18 @@
 {
   "tmdb_id": 1380291,
   "media_type": "movie",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "9e233c90",
+      "sha256": "9e233c90bcff58f1fbe3ea8169bfe2ab175873d0324d8130241972485ffbd1c2",
+      "model": "local",
+      "translated_at": "2026-06-20"
+    },
+    {
+      "sha8": "36941002",
+      "sha256": "3694100278896ceccb32af31492532ed4a572a80caa9a7f3cc731e9721507fb4",
+      "model": "local",
+      "translated_at": "2026-05-29"
+    }
+  ]
 }

@@ -1,12 +1,5 @@
 {
   "tmdb_id": 931285,
   "media_type": "movie",
-  "subs": [
-    {
-      "sha8": "36dcf2d9",
-      "sha256": "36dcf2d90cb1aebafa122e643bbe74454f27541cda7dbd776eb299de845d2858",
-      "model": "local",
-      "translated_at": "2026-05-24T17:15:54.324Z"
-    }
-  ]
+  "subs": []
 }

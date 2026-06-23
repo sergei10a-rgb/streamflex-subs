@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 1,
+  "sha256": "1b225a1b639549131bb0fbf3d1ca180c4570ef061b748dd8cadaf5a6dc8de6ba",
+  "model": "claude-opus-4-8",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}

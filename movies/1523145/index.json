@@ -1,5 +1,12 @@
 {
   "tmdb_id": 1523145,
   "media_type": "movie",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "43efaf3d",
+      "sha256": "43efaf3da8db27f05119dcb2ca7e761b676744e1a62b97f1cb9255d54260551e",
+      "model": "auto",
+      "translated_at": "2026-06-22"
+    }
+  ]
 }

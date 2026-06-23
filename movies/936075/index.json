@@ -1,5 +1,18 @@
 {
   "tmdb_id": 936075,
   "media_type": "movie",
-  "subs": []
+  "subs": [
+    {
+      "sha8": "f1bc3528",
+      "sha256": "f1bc35283f731981878ebe61e8c9f8cf2e6bad4d8192ce9f5468c67c66328356",
+      "model": "local",
+      "translated_at": "2026-05-31"
+    },
+    {
+      "sha8": "3a4dfadb",
+      "sha256": "3a4dfadbe9a5b9231602e94f326adb7bbefefa2bc3cc4b58d9cb92e73a89bfae",
+      "model": "local",
+      "translated_at": "2026-05-31"
+    }
+  ]
 }
