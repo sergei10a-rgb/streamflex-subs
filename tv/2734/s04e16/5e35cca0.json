@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 4,
+  "episode": 16,
+  "sha256": "5e35cca0441bd15d3121b68851a31d90a302c06f1f3082b5845dbfb196369c30",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
