@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 4,
+  "episode": 12,
+  "sha256": "c245dbf62febf53a0091b2adefa8591586c1275f69ed5f01c0d96a5595a9e65e",
+  "model": "claude-opus-4-8",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
