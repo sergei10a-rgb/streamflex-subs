@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 83533,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "ad5a80ed8a0167cc9bf68f6ccd4e1b20af0873a9a96b4e0b52640df7ce78a58a",
+  "model": "local",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at": "2026-05-24T15:40:11.690Z",
+  "app_version": "1.0.11"
+}

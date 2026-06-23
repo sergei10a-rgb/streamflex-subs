@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 40008,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 2,
+  "sha256": "42eda91c008e9f932215b842fc4c046eb5960215038308f5d47b0434926aac42",
+  "model": "local",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at": "2026-05-25T08:40:56.219Z",
+  "app_version": "1.0.18"
+}

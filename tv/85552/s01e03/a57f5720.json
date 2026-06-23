@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 85552,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 3,
+  "sha256": "a57f5720076535e3389a5e7dd830ecdabc545b069f36c35f182c5986fc47a29c",
+  "model": "local",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at": "2026-05-24T18:30:19.888Z",
+  "app_version": "1.0.16"
+}
