@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 9,
+  "episode": 4,
+  "sha256": "d336dde9a2ebbfd3d2d1fb19625f92aa05e4d21bf8e7f0782e74646f2500eab3",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
