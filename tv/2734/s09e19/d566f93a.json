@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 9,
+  "episode": 19,
+  "sha256": "d566f93ad86c3fe03ee6cf7354ad6a3d467c8ed0722cd6c471e0755b35cec30b",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
