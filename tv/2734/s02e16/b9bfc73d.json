@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 2,
+  "episode": 16,
+  "sha256": "b9bfc73d5466d361a33f6870d5423eedfce584e053499ce79287fda25c7217a1",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
