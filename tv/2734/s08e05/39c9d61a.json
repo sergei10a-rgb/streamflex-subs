@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 8,
+  "episode": 5,
+  "sha256": "39c9d61a8e86d792a9509b685e2d7c67702e97084759b509142aa2e2e803488c",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
