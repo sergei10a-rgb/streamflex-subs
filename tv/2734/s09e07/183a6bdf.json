@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 9,
+  "episode": 7,
+  "sha256": "183a6bdf5c5afc04e7c83e1cdfeeb2269b37d395946926ac2ef41297bda8466b",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
