@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 10,
+  "episode": 20,
+  "sha256": "b0e72e11c953a8c8f7226081f5b8e62cf7c8f985d7e7be3642f47df61ed62740",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
