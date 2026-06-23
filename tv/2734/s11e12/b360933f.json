@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 11,
+  "episode": 12,
+  "sha256": "b360933feeb874c2d8d078e9b4b6ae18cab8bb115e86c30d6c8c2baf5d0e0980",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
