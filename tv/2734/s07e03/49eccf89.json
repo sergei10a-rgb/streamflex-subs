@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 7,
+  "episode": 3,
+  "sha256": "49eccf8930b3d8e34be4a33932ece751510fdfda2304d0fe93a1774b64ce8dfa",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
