@@ -1,11 +1,5 @@
 {
-  "subs": [
-    {
-      "sha8": "e9dc0900",
-      "sha256": "e9dc090087ce7944d33901ed91302287f1b0b5a35e77fce546bd6a0d62ec015e",
-      "model": "claude-opus-4-8",
-      "target_language": "mn",
-      "translated_at": "2026-06-23"
-    }
-  ]
+  "tmdb_id": 301528,
+  "media_type": "movie",
+  "subs": []
 }
