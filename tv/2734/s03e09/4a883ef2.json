@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 3,
+  "episode": 9,
+  "sha256": "4a883ef22121aad49e0a127765c6fee43502acfcac8713af448f602a09685908",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
