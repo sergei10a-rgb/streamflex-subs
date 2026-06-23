@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 10,
+  "episode": 3,
+  "sha256": "e8115406b03d29b359c480b4cade53bc836b962ab8b6718a8c5812933704f578",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
