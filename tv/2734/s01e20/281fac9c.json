@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 20,
+  "sha256": "281fac9c7f46958d9af82802c279fc841bd3837da2bb023ce14e41f8d059525f",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-23"
+}
