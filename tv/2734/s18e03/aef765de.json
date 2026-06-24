@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 18,
+  "episode": 3,
+  "sha256": "aef765de3524737fa5d18a66f78fe12ae6597e23d8ec88395db211789e7b5f99",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
