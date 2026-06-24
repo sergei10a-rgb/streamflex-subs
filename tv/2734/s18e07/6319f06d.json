@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 18,
+  "episode": 7,
+  "sha256": "6319f06ddb11b9833879767ef3ad6cf6aec2424d63fd7cefe087a8ba320fcf66",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
