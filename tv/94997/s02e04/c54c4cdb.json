@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 94997,
+  "media_type": "tv",
+  "season": 2,
+  "episode": 4,
+  "sha256": "c54c4cdb5fca7090732369af2f3f04793da4cc7ef3813882668aac12c2e277f6",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
