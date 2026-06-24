@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 13,
+  "episode": 6,
+  "sha256": "ae25c276b776bfb358b9dd491f69ffc7951f9e62c08f4296e8992b2372eb2f3b",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
