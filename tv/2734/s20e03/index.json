@@ -1,10 +1,11 @@
 {
+  "tmdb_id": 2734,
+  "media_type": "tv",
   "subs": [
     {
       "sha8": "4aa9860b",
       "sha256": "4aa9860b91980fd12306a8039d3f727b4bd16320d68dba0d2a531d0274f2870f",
       "model": "auto",
-      "target_language": "mn",
       "translated_at": "2026-06-24"
     }
   ]
