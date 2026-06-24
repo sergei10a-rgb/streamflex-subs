@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 12,
+  "episode": 24,
+  "sha256": "ebb5b7539ee78eea27adeba9528813d76f1c615501896d9b744d56d11bfe35d4",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
