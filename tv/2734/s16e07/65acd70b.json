@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 16,
+  "episode": 7,
+  "sha256": "65acd70b71d7fe8d3767fd94e25e338996c419e75f68a51b2d78d7363445f7c0",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
