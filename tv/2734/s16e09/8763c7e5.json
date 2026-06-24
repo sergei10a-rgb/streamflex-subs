@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 16,
+  "episode": 9,
+  "sha256": "8763c7e5bae8f9572bb6c67b95aab4d84cb5dac0a2df4dd86333b6fda702ede2",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
