@@ -1,0 +1,11 @@
+{
+  "subs": [
+    {
+      "sha8": "d9a8815c",
+      "sha256": "d9a8815cbc522f749fa8e4d3afeed51e838cb94f023d7acf5497fa8ef3839d27",
+      "model": "gpt-5.5",
+      "target_language": "mn",
+      "translated_at": "2026-06-24"
+    }
+  ]
+}
