@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 19,
+  "episode": 22,
+  "sha256": "64b4ebdf86e4d514fe0bcf3a1750362b625507d0f51a5e245692b88613765d76",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
