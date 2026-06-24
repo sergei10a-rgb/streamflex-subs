@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 94997,
+  "media_type": "tv",
+  "season": 2,
+  "episode": 6,
+  "sha256": "1c0ff9ed0e0441c1bb500ae308ee801547bff7b0438ae78eb3ac0d2c06d665c3",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
