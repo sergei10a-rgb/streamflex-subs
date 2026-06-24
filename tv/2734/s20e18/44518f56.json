@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 20,
+  "episode": 18,
+  "sha256": "44518f56145e1d8b150637249ca888cc36cca15b819122bc98dd1d2bc8e2797c",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
