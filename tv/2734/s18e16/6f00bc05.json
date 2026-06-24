@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 18,
+  "episode": 16,
+  "sha256": "6f00bc0542cc67ae3df07b6275a38aef57638407054783ea174de853263545e1",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
