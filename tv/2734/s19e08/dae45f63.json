@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 19,
+  "episode": 8,
+  "sha256": "dae45f63a5a3f1802134f80bad6b3b55f65e67c9116a192e1705b482429ee063",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
