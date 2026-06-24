@@ -5,6 +5,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const crypto = require("crypto");
 
 const ROOT = process.cwd();
 
@@ -34,7 +35,23 @@ function regenIndex(dir) {
     if (entry === "index.json") continue;
     const sha8 = entry.replace(/\.json$/, "");
     try {
-      const meta = JSON.parse(fs.readFileSync(path.join(dir, entry), "utf8"));
+      const metaPath = path.join(dir, entry);
+      const srtPath = path.join(dir, `${sha8}.srt`);
+      if (!fs.existsSync(srtPath)) {
+        console.error(`Skipping ${entry}: matching .srt missing`);
+        continue;
+      }
+      const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+      if (!meta.sha256 || !meta.model) {
+        console.error(`Skipping ${entry}: required metadata missing`);
+        continue;
+      }
+      const srt = fs.readFileSync(srtPath, "utf8");
+      const actualSha = crypto.createHash("sha256").update(srt).digest("hex");
+      if (meta.sha256 !== actualSha) {
+        console.error(`Skipping ${entry}: sha256 mismatch`);
+        continue;
+      }
       subs.push({
         sha8,
         sha256: meta.sha256,

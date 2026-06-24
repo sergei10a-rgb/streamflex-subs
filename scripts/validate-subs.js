@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Validate every {sha8}.srt + {sha8}.json pair under movies/ and tv/.
-// Removes invalid pairs in place. Logs to stdout. Exit 0 always.
+// Never deletes uploaded subtitles. Logs problems to stdout/stderr and exits 0.
 
 const fs = require("fs");
 const path = require("path");
@@ -23,7 +23,7 @@ function hasDateKey(meta) {
   return "translated_at" in meta || "translated_at_day" in meta;
 }
 
-const deletions = [];
+const invalids = [];
 
 function walkLeafFiles(dir, onSrtFile) {
   if (!fs.existsSync(dir)) return;
@@ -67,18 +67,16 @@ function validatePair(srtPath) {
   }
   if (errors.length) {
     console.error(`INVALID ${path.relative(ROOT, srtPath)}: ${errors.join("; ")}`);
-    try { fs.unlinkSync(srtPath); } catch {}
-    try { if (fs.existsSync(jsonPath)) fs.unlinkSync(jsonPath); } catch {}
-    deletions.push(path.relative(ROOT, srtPath));
+    invalids.push(path.relative(ROOT, srtPath));
   }
 }
 
 walkLeafFiles(path.join(ROOT, "movies"), validatePair);
 walkLeafFiles(path.join(ROOT, "tv"), validatePair);
 
-if (deletions.length) {
-  console.log(`\nDeleted ${deletions.length} invalid file pair(s):`);
-  deletions.forEach((d) => console.log(`  - ${d}`));
+if (invalids.length) {
+  console.log(`\nFound ${invalids.length} invalid file pair(s); left files untouched:`);
+  invalids.forEach((d) => console.log(`  - ${d}`));
 } else {
   console.log("All files valid.");
 }

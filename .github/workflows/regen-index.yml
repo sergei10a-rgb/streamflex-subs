@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: regen-indexes-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   regen:
     runs-on: ubuntu-latest
@@ -40,5 +44,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: regenerate indexes + validate"
+            git pull --rebase origin main
             git push
           fi
