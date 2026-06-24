@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 18,
+  "episode": 9,
+  "sha256": "8ae6807d92bfb54b0155fcf955f2e6d6ad1cdfa19f0d4317e2c8022617656b0a",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
