@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 94997,
+  "media_type": "tv",
+  "season": 1,
+  "episode": 5,
+  "sha256": "185dc71ce79bcaf5af66e8f6395a2aaf33955ad0b23a0d37b81a33de7804468b",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-24"
+}
