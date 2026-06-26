@@ -1,10 +1,11 @@
 {
+  "tmdb_id": 673,
+  "media_type": "movie",
   "subs": [
     {
       "sha8": "143dfdcd",
       "sha256": "143dfdcddbdb62a0e860058e7011463e9eba4ef8956648d7c991d5318d7c945e",
       "model": "claude-opus-4-8",
-      "target_language": "mn",
       "translated_at": "2026-06-26"
     }
   ]
