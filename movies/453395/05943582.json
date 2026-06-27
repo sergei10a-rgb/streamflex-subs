@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 453395,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "0594358226372589354283e97f225c0db811d0c5a33a321cbebe5d7e33fbbba4",
+  "model": "claude-opus-4-8",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-27"
+}
