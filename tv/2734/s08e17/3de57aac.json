@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 8,
+  "episode": 17,
+  "sha256": "3de57aac93d7abe4e6277b6d5c47903813d4e0ceb64c0ef415c64219961bb9c4",
+  "model": "claude-opus-4-8",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-29"
+}
