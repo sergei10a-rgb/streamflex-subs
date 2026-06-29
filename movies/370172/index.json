@@ -1,0 +1,11 @@
+{
+  "subs": [
+    {
+      "sha8": "7f787c40",
+      "sha256": "7f787c40f41247c5f8846b5888bb0e7e0107f305f325bba1355f56785f5c0600",
+      "model": "claude-opus-4-8",
+      "target_language": "mn",
+      "translated_at": "2026-06-29"
+    }
+  ]
+}
