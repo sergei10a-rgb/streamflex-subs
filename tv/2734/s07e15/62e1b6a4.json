@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 2734,
+  "media_type": "tv",
+  "season": 7,
+  "episode": 15,
+  "sha256": "62e1b6a475aee80f4564c3cf306fc75ace7cb8f88ecfda95adcc211f8ec06880",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-29"
+}
