@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 15121,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "e3501b31b348f5bdeac5263fcd4ee38c0c19f1edb089c2a30d4bf1a3f34b4e78",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-06-30"
+}
