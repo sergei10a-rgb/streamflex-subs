@@ -1,10 +1,11 @@
 {
+  "tmdb_id": 313534,
+  "media_type": "movie",
   "subs": [
     {
       "sha8": "b259ef3c",
       "sha256": "b259ef3c66ff89c36027fb39dc1cb9259eb9b28d37cf64ed5814fd0fc4e29b4a",
       "model": "auto",
-      "target_language": "mn",
       "translated_at": "2026-06-30"
     }
   ]
