@@ -1,0 +1,11 @@
+{
+  "subs": [
+    {
+      "sha8": "e78b9da9",
+      "sha256": "e78b9da9ade101eaab6e7a774e5407852e1df4a9f6195d1e07f2be53dd8a95e9",
+      "model": "auto",
+      "target_language": "mn",
+      "translated_at": "2026-07-01"
+    }
+  ]
+}
