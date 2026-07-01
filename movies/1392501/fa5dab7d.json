@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 1392501,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "fa5dab7d8c2194a52ee019898117f34152294b2ef437f186f91fe1e1aad7aecc",
+  "model": "gpt-5.5",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-07-01"
+}
