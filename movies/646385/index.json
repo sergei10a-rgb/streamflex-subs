@@ -1,0 +1,11 @@
+{
+  "subs": [
+    {
+      "sha8": "97895949",
+      "sha256": "978959497bae8976ba85ef7414b8d8e96a70e7e9a67641926fad50aa44b4f6ad",
+      "model": "auto",
+      "target_language": "mn",
+      "translated_at": "2026-07-02"
+    }
+  ]
+}
