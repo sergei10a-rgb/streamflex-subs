@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 567,
+  "media_type": "movie",
+  "season": null,
+  "episode": null,
+  "sha256": "5a25ec7dbe9a276f6e4b5ca2e1e329bb11cc5b6bff133f14758edee9ea703299",
+  "model": "auto",
+  "source_language": "en",
+  "target_language": "mn",
+  "translated_at_day": "2026-07-03"
+}
