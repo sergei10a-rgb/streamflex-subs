@@ -1,10 +1,11 @@
 {
+  "tmdb_id": 2022,
+  "media_type": "movie",
   "subs": [
     {
       "sha8": "a4351387",
       "sha256": "a4351387462ad6bf61b2ce9a881772f9d334282e44a118cb70f40509f8108a60",
       "model": "auto",
-      "target_language": "mn",
       "translated_at": "2026-07-31"
     }
   ]
